@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/lyehe/lazyimread/archive/v{{ version }}.tar.gz
-  sha256: 9381eb967eda1ed1649e39cf0023fdd4b7f66ceca721cd973b8c490e28a74a0a
+  sha256: e96cfa2f55a11cf315c1cf07ff45370cd4b1ba89c798c688d648f479301b52d7
 
 build:
   noarch: python
